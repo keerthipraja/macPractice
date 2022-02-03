@@ -14,5 +14,6 @@ public class App
         ArrayList<String> ar=new ArrayList<>(Arrays.asList("wew","weeeeeee"));
 
         System.out.println( ar );
+        System.out.println("222");
     }
 }
